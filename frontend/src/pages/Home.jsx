@@ -12,7 +12,7 @@ const RenderCards=({data,title})=>{
     )
 }
 const Home = () => {
-const [loading, setLoading] = useState(false);
+const [loading, setLoading] = useState(true);
 const [allPosts, setAllPosts] = useState(null);
     
 const [searchText, setSearchText] = useState("abc");
