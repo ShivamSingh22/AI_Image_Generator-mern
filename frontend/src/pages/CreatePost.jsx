@@ -48,8 +48,8 @@ const CreatePost = () => {
           className="mt-2 text-[#666e75] text-[17px] max-w
         [500px]"
         >
-          Dall-E - "Am I more loyal than a dog? Anyhow don't want to be compared
-          to a dog!"
+          Dall-E - "Am I more loyal than a dog? Anyhow don't compare
+         me to a dog!"
         </p>
       </div>
 
@@ -59,7 +59,7 @@ const CreatePost = () => {
             LabelName="Your Name"
             type="text"
             name="name"
-            placeholder="John Doe"
+            placeholder="Shivam Singh"
             value={form.name}
             handleChange={handleChange}
           />
