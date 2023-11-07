@@ -24,9 +24,6 @@ go to localhost:8080 to view the whole web application
 
 #Challenge your imagination, give a prompt and click Generate.
 
-## Live Link : 
-https://dall-e-beta.netlify.app/ 
-
 ## Technologies Used
 
 - React.js
