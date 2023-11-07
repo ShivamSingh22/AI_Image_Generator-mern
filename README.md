@@ -24,11 +24,8 @@ go to localhost:8080 to view the whole web application
 
 #Challenge your imagination, give a prompt and click Generate.
 
-![App Screenshot](https://res.cloudinary.com/dhaoxpvz2/image/upload/v1678771242/Screenshot_2023-03-14_at_10.20.52_AM_wbfirq.png)
-
-## Live Demo
-
-link : https://dall-e-beta.netlify.app/ 
+## Live Link : 
+https://dall-e-beta.netlify.app/ 
 
 ## Technologies Used
 
